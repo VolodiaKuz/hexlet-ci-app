@@ -2,6 +2,8 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
+# workflow status badge
+
 [![hello-world](https://github.com/VolodiaKuz/hexlet-ci-app/actions/workflows/test-workflow.yml/badge.svg)](https://github.com/VolodiaKuz/hexlet-ci-app/actions)
 
 ## System requirements
