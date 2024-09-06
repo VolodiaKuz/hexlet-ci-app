@@ -21,9 +21,9 @@
     "supertest": "^6.2.4"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "^4.15.0",
+    "@strapi/plugin-i18n": "^4.25.9",
     "@strapi/plugin-users-permissions": "^4.15.0",
-    "@strapi/strapi": "^4.19.1",
+    "@strapi/strapi": "^4.25.9",
     "snyk": "^1.1278.0"
   },
   "author": {
